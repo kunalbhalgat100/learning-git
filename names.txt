@@ -2,3 +2,6 @@ kunal kamlesh bhalgat
 to remove file from staged area -->
 gitrestore --staged names.txt
 history of all commits
+git remote add origin (url)
+git remote -v
+git push origin master
